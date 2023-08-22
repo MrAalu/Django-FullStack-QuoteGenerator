@@ -1,2 +1,3 @@
-# Django-FullStack-QuoteGenerator
-Random Programming Quote generator - Fullstack Django
+## Django FullStack QuoteGenerator
+
+Your One-Stop Source for Witty Programming Quotes!
